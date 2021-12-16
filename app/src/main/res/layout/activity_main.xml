@@ -54,6 +54,7 @@
 
     <TextView
         android:id="@+id/service_question"
+        style="@style/Widget.TipTime.TextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -129,6 +130,7 @@
 
     <TextView
         android:id="@+id/tip_result"
+        style="@style/Widget.TipTime.TextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
@@ -136,16 +138,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/calculate_button"
         tools:text="Tip Amount: $0" />
-
-    <TextView
-        android:id="@+id/total_amount"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:gravity="center"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/tip_result"
-        tools:text="Total  Amount: $0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>

@@ -27,7 +27,6 @@ class MainActivity : AppCompatActivity() {
         val cost = stringInTextField.toDoubleOrNull()
         if (cost == null) {
             binding.tipResult.text = ""
-            binding.totalAmount.text= ""
             return
         }
 
@@ -44,7 +43,6 @@ class MainActivity : AppCompatActivity() {
         val formattedTip = NumberFormat.getCurrencyInstance().format(tip)
         binding.tipResult.text = getString(R.string.tip_amount, formattedTip)
         val totalTip = NumberFormat.getCurrencyInstance().format(tip + cost)
-        binding.totalAmount.text = getString(R.string.total_amount, totalTip)
     }
 
     private fun handleKeyEvent(view: View, keyCode: Int): Boolean {

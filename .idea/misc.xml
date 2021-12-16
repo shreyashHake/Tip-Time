@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/91808/AndroidStudioProjects/TipTime/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" value="0.240625" />
+        <entry key="..\:/Users/91808/AndroidStudioProjects/TipTime/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" value="0.240625" />
+        <entry key="..\:/Users/91808/AndroidStudioProjects/TipTime/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.240625" />
+        <entry key="..\:/Users/91808/AndroidStudioProjects/TipTime/app/src/main/res/drawable/ic_launcher_background.xml" value="0.240625" />
+        <entry key="..\:/Users/91808/AndroidStudioProjects/TipTime/app/src/main/res/drawable/ic_round_up.xml" value="0.240625" />
+        <entry key="..\:/Users/91808/AndroidStudioProjects/TipTime/app/src/main/res/drawable/ic_service.xml" value="0.240625" />
+        <entry key="..\:/Users/91808/AndroidStudioProjects/TipTime/app/src/main/res/drawable/ic_store.xml" value="0.240625" />
         <entry key="..\:/Users/91808/AndroidStudioProjects/TipTime/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/91808/AndroidStudioProjects/TipTime/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.240625" />
       </map>
     </option>
   </component>
