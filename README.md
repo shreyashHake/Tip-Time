@@ -7,11 +7,11 @@
 ### <h2>Video Illustration</h2></br>
  * <p style="text-align:center;" >
     <h3  >Intial Stage</h3>
-    <img src = "https://github.com/shreyashHake/Dice_Roller/blob/main/Images/tipTime1.gif" alt = "Small Overview" align = "center">
+    <img aling = "center" src = "https://github.com/shreyashHake/Dice_Roller/blob/main/Images/tipTime1.gif" alt = "Small Overview">
    </p>
 ----
 * <p style="text-align:center;" >
    <h3 style="text-align:center;" >Final Stage</h3>
-    <img src = "https://github.com/shreyashHake/Dice_Roller/blob/main/Images/tipTime2.gif" alt = "Small Overview" align = "center">
+    <img aling = "center" src = "https://github.com/shreyashHake/Dice_Roller/blob/main/Images/tipTime2.gif" alt = "Small Overview" >
  </p>
  ---
